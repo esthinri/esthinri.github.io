@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Welcome to My GitHub Page
 
-You can use the [editor on GitHub](https://github.com/esthinri/esthinri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Aqui você encontrara alguns projetos nos quais eu trabalhei e/ou estou trabalhando, 
+tambem poderá ter uma ideia da qualidade do meu codigo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# projetos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. VRaptor Produtos [link](https://github.com/esthinri/vraptor4-produtos)
+Projeto utilizando o framework [Vraptor 4]()http://www.vraptor.org/pt/) de controle de produtos
 
-```markdown
-Syntax highlighted code block
+2. Blue Hunter API [link](https://github.com/esthinri/bluehunterapi)
+Back End de um sistema CRUD de usuarios e livros usando NodeJS com banco de dados MongoDB
 
-# Header 1
-## Header 2
-### Header 3
+3. Find Errors [link] (https://github.com/esthinri/find_errors)
+Automação de sistema web utilizando ruby + cucumber + rspec + capybara + selenium webdriver.
 
-- Bulleted
-- List
+4. Hunter Website API [link] (https://github.com/esthinri/hunterswebsite)
+Parte do backend do novo site dos Cajamar Hunters Football usando NodeJS com banco de dados MongoDB.
 
-1. Numbered
-2. List
+5. Arivo Automação [link] (https://github.com/esthinri/arivo-automation-selenium-cucumber)
+POC de Automação Web utilizando java + selenium + cucumber.
 
-**Bold** and _Italic_ and `Code` text
+para ver outros projetos é so clicar [aqui](https://github.com/esthinri?tab=repositories)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Sobre Mim
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/esthinri/esthinri.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[LinkedIn](https://www.linkedin.com/in/estherhinrichsen/)
+[Facebook](https://www.facebook.com/esther.hinrichsen)  
